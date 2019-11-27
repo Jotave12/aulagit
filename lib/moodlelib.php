@@ -2134,7 +2134,7 @@ function format_time($totalsecs, $str = null) {
     }
 
     if ($years) {
-        return trim($oyears .' '. $odays);
+        return trim($oyears .' '. $odays.' '.0hours);
     }
     if ($days) {
         return trim($odays .' '. $ohours);
