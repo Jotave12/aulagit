@@ -1,0 +1,9 @@
+1º - use no seu git os comandos: git config --global user.name "Seu nome"
+                                 git config --global user.email "seu-email@example.com"
+2º - após associar o seu email e seu nome do github ( precisa criar sua conta no github).Use o comando git init. Entre no gitteste usando cd gittest.
+3º abra um aquivo .txt usando o comando vim arquivo.txt, modifique-o com o que desejar postar no seu github. Para modificar use insert, para salvar :w e para sair :q
+4º Use o comando git add "nome do aqrquivo.txt"
+5º Use o comando git commit -m "nome do arquivo"
+6º use o comando git push e colque se necessário quando aparecer, seu usuário e senha do github.
+
+Fim.
